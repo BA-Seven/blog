@@ -87,6 +87,8 @@ params:
       url: "https://github.com/BA-Seven"
     - name: root-me
       url: "https://www.root-me.org/B-A-Seven"
+    - name: subuthax
+      url: "https://subuthax.github.io/"
 
   analytics:
     google:
