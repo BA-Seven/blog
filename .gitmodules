@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:BA-Seven/ba-seven.github.io.git
+	branch = main
